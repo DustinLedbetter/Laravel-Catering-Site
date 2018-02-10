@@ -1,9 +1,9 @@
 # Laravel-Catering-Site
 I have migrated the catering site to utilize the laravel framework.
 
-If you want to use these files and have a laravel project open you would need to:
-Place the web pages in the [views folder] inside the [resources folder].
-Place the routes file in the [routes folder].
+If you want to use these files and have a laravel project open you would need to:<br>
+Place the web pages in the [views folder] inside the [resources folder].<br>
+Place the routes file in the [routes folder].<br>
 Place the CSS, JS, imgs and menu pdfs in the [public folder].
 
 The files included on here are:
